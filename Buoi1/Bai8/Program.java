@@ -1,3 +1,5 @@
+package Buoi1.Bai8;
+
 import java.util.Scanner;
 
 public class Program {

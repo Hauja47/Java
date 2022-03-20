@@ -1,3 +1,5 @@
+package Buoi1.Bai5;
+
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.Vector;

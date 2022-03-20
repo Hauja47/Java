@@ -1,3 +1,5 @@
+package Buoi1.Bai7;
+
 import java.util.Scanner;
 
 public class GreatestAndLowestFraction {

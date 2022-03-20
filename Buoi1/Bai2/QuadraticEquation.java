@@ -1,3 +1,5 @@
+package Buoi1.Bai2;
+
 import java.util.Scanner;
 
 public class QuadraticEquation {

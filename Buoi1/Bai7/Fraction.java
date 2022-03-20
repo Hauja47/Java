@@ -1,3 +1,5 @@
+package Buoi1.Bai7;
+
 public class Fraction {
     public int numerator;
     public int denominator;

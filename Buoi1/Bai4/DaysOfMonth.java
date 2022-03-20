@@ -1,3 +1,5 @@
+package Buoi1.Bai4;
+
 import java.util.Scanner;
 
 public class DaysOfMonth {

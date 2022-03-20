@@ -1,3 +1,5 @@
+package Buoi1.Bai3;
+
 import java.util.Scanner;
 
 public class Sort {

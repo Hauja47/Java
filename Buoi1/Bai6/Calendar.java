@@ -1,3 +1,5 @@
+package Buoi1.Bai6;
+
 import java.util.Scanner;
 
 public class Calendar {
